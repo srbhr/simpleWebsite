@@ -1,8 +1,30 @@
 .img{
     width: 100px;
     height: 100px;
+    display: block;
+    margin: auto;
 }
 /* font-family: 'Noto Sans', sans-serif; */
-body{
+html{
     font-family: 'Noto Sans', sans-serif;
+    font-size: 14px;
+    background-color: #F7F7F7;
+}
+
+h1{
+    font-size: 50px;
+    color: #151D3B;
+    text-align: center;
+    margin:  0;
+    padding: 20px;
+    text-shadow: 3px 3px 1px #008E89;
+}
+
+body {
+    width: 600px;
+    margin: auto;
+    background-color: #FFE61B;
+    padding: 0 20px 20px 20px;
+    border: 5px solid #D82148;
+    border-radius: 5px;
 }
