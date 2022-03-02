@@ -1,0 +1,36 @@
+.img{
+    width: 100px;
+    height: 100px;
+    display: block;
+    margin: auto;
+}
+/* font-family: 'Noto Sans', sans-serif; */
+html{
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 16px;
+    background-color: #203239;
+}
+
+h1{
+    font-size: 60px;
+    color: #151D3B;
+    text-align: center;
+    margin:  0;
+    padding: 20px;
+    text-shadow: 3px 3px 1px #008E89;
+}
+
+body {
+    width: 600px;
+    margin: auto;
+    background-color: #FFE61B;
+    padding: 0 20px 20px 20px;
+    border: 5px solid #D82148;
+    border-radius: 5px;
+}
+
+p, li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+  }
