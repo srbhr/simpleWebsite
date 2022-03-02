@@ -7,12 +7,12 @@
 /* font-family: 'Noto Sans', sans-serif; */
 html{
     font-family: 'Noto Sans', sans-serif;
-    font-size: 14px;
-    background-color: #F7F7F7;
+    font-size: 16px;
+    background-color: #203239;
 }
 
 h1{
-    font-size: 50px;
+    font-size: 60px;
     color: #151D3B;
     text-align: center;
     margin:  0;
@@ -28,3 +28,9 @@ body {
     border: 5px solid #D82148;
     border-radius: 5px;
 }
+
+p, li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+  }
