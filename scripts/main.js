@@ -4,7 +4,7 @@ myImg.onclick = function () {
     let mySrc = myImg.getAttribute('src');
 
     if (mySrc == "assets/Firefox-logo.png") {
-        myImg.setAttribute("src", "assets/Firefox-logo-2.png");
+        myImg.setAttribute("src", "assets/Invide_logo.png");
     } else {
         myImg.setAttribute("src", "assets/Firefox-logo.png");
     }
